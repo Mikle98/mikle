@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ktqdW9cAP0DzigfuXDSzyRh805vCQQEkDRUTUdkX1sbEJXv2cyl4FXAPb8bKnZteDK+3hup58WCMI7uXeKQ6lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mikle\\source\\repos\\Parser\\Parser\\Parser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikle\\.nuget\\packages\\anglesharp\\0.16.0\\anglesharp.0.16.0.nupkg.sha512",
+    "C:\\Users\\Mikle\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mikle\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Mikle\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
